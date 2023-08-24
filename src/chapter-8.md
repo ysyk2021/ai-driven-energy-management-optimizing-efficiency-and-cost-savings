@@ -1,5 +1,3 @@
-Chapter 8: Future Trends and Opportunities for AI-Enabled Energy Management
-===========================================================================
 
 AI-enabled energy management is a rapidly evolving field, and there are several emerging trends that offer exciting opportunities for optimizing efficiency and cost savings while reducing carbon footprints.
 

@@ -1,5 +1,3 @@
-Automated Project Tracking and Reporting using AI
-=============================================================================================================================
 
 Managing energy efficiency projects and initiatives can be a complex and time-consuming process. However, incorporating AI into project tracking and reporting can streamline this process and enable organizations to maximize the benefits of their energy efficiency projects. In this chapter, we will explore how automated project tracking and reporting using AI can streamline energy efficiency projects and initiatives.
 

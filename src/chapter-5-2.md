@@ -1,5 +1,3 @@
-Personalized Renewable Energy Implementation Recommendations and Interventions using AI
-===============================================================================================================================================================
 
 As renewable energy sources become more prevalent, it is essential to consider the most effective ways of integrating these sources into existing energy systems. Artificial intelligence (AI) can play a critical role in improving renewable energy integration and planning.
 

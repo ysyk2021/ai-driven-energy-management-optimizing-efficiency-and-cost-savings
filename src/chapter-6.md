@@ -1,5 +1,3 @@
-Chapter 6: Streamlining Energy Efficiency Projects and Initiatives with AI
-==========================================================================
 
 Implementing energy efficiency projects and initiatives can be challenging due to the complexity of the energy system and the diverse range of stakeholders involved. Artificial intelligence (AI) can play a critical role in streamlining energy efficiency projects and initiatives by providing assistance and automating project tracking and reporting.
 

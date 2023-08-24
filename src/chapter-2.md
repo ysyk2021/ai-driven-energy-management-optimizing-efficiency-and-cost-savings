@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Energy Management
-=================================================================
 
 Effective energy management requires the use of advanced tools and technologies to optimize efficiency and reduce waste. Artificial intelligence (AI) is one such tool that can play a critical role in energy management.
 

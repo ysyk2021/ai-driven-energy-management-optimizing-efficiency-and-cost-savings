@@ -1,5 +1,3 @@
-Emerging Trends in AI for Energy Management and Sustainability
-===========================================================================================================================================
 
 AI-enabled energy management is a rapidly evolving field, and there are several emerging trends that offer exciting opportunities for optimizing efficiency and cost savings while reducing carbon footprints.
 

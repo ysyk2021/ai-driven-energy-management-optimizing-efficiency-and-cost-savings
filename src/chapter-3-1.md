@@ -1,5 +1,3 @@
-Using AI for Energy Monitoring and Analytics
-===========================================================================================================
 
 Effective energy management requires accurate monitoring and analysis of energy usage patterns. Artificial intelligence (AI) can play a critical role in energy monitoring and analytics by providing real-time monitoring, data analytics, and personalized recommendations.
 

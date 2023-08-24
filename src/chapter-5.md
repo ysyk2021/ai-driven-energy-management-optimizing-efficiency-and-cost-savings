@@ -1,5 +1,3 @@
-Chapter 5: Improving Renewable Energy Integration and Planning with AI
-======================================================================
 
 As the world continues to shift towards renewable energy sources, it is essential to consider the most effective ways of integrating these sources into existing energy systems. Artificial intelligence (AI) can play a critical role in improving renewable energy integration and planning.
 

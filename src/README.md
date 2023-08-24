@@ -1,4 +1,3 @@
-# Introduction
 
 In today's world, energy management has become a critical component of sustainability and cost savings for businesses. However, managing energy usage can be a complex and time-consuming task, requiring detailed analysis of data and forecasting of future energy needs. That's where AI comes in.
 
